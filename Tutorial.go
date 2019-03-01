@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "./Queue"
+	. "github.com/Sl1va/Golang-Queue/Queue"
 	"fmt"
 )
 
